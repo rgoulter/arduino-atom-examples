@@ -1,0 +1,5 @@
+{
+  "ARSCONS_TARGET": "SpaceshipInterface",
+  "ARDUINO_BOARD": "uno",
+  "ARDUINO_PORT": "/dev/ttyACM0"
+}
